@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087456550180",
+    "project_id": "ezhilassistant-1615605371547",
+    "storage_bucket": "ezhilassistant-1615605371547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087456550180:android:d4d604b826e9ce9b0ae7b1",
+        "android_client_info": {
+          "package_name": "com.skgezhil.chatzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087456550180-n0jcdoeli9c8mr3f928e6cv2vrcc0u9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMvgaeHoCd0r-BRh0QxeCu6PDHJA3l8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087456550180-n0jcdoeli9c8mr3f928e6cv2vrcc0u9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
